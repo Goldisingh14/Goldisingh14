@@ -60,18 +60,12 @@
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/java.png" width="50"/>
 </a>
 
-<!-- <img src="https://dileepabandara.github.io/public-images/gh-rm-t/android_studio.png" width="50"/> -->
-<!-- </a> -->
-<!-- <a href = "https://www.jetbrains.com/idea">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/intellij_idea.png" width="50"/>
-</a> -->
+
 
 <a href = "https://github.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
 </a>
-<!-- <a href = "https://firebase.google.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/firebase.png" width="50"/>
-</a> -->
+
 
 <a href = "https://visualstudio.microsoft.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio.png" width="50"/>
@@ -79,9 +73,6 @@
 <a href = "https://code.visualstudio.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio_code.png" width="50"/>
 </a>
-<!-- <a href = "https://icons8.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/icons8.png" width="50"/>
-</a> -->
 
 <a href = "https://git-scm.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/git.png" width="50"/>
