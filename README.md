@@ -100,14 +100,15 @@
 	<a href="https://linkedin.com/in/goldi-singh-422a23230">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 	</a>
-
-
-	<a href="https://www.instagram.com/goldisingh988">
+ <a href="https://www.instagram.com/goldisingh988">
 		<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="mailto:01goldichaudhary@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
 	</a>
+ 
+
+	
 </p>
 
 <div align="center">
