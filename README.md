@@ -66,7 +66,7 @@
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
 </a>
 
-
+<!--
 <a href = "https://visualstudio.microsoft.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio.png" width="50"/>
 </a>
@@ -77,6 +77,7 @@
 <a href = "https://git-scm.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/git.png" width="50"/>
 </a>
+-->
 </div>
 
 <hr>
